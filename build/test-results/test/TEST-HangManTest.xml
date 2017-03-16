@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HangManTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-03-16T22:31:19" hostname="Epicodus-7B.local" time="0.002">
+  <properties/>
+  <testcase name="checkGuess_recognizesIfLetterHasBeenGuessed_true" classname="HangManTest" time="0.001"/>
+  <testcase name="getWordProgess_doesNothingWhenGuessWrongLetter_____" classname="HangManTest" time="0.0"/>
+  <testcase name="getWordProgress_convertsWordToUnderScores_____" classname="HangManTest" time="0.0"/>
+  <testcase name="getWordProgess_displaysGuessedLetter_w___" classname="HangManTest" time="0.0"/>
+  <testcase name="getWord_getsRandomWordFromArray_word" classname="HangManTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
